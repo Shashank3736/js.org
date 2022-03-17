@@ -2174,6 +2174,7 @@ var cnames_active = {
   "random-machine": "officialpiyush.github.io/random-machine",
   "randomer": "kzacharski.github.io/randomer",
   "randomimgapi": "hosting.gitbook.io",
+  "ranmess ": "ultirequiem.github.io/ranmess",
   "randy": "randyviandaputra.github.io",
   "rangeslider": "andreruffert.github.io/rangeslider.js", // noCF? (don´t add this in a new PR)
   "rant": "79E.github.io/rant",
@@ -2808,6 +2809,7 @@ var cnames_active = {
   "turali": "caglarturali.github.io",
   "turbo": "turbo.github.io",
   "tw-themes": "kevinast.github.io/tw-themes",
+  "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
